@@ -1,5 +1,6 @@
+/* eslint-disable react/jsx-filename-extension */
 /* eslint-disable react/prop-types */
-import React from "react"
+import { IUserInfo } from "./types"
 import {
 	Container,
 	UserPicture,
@@ -7,7 +8,7 @@ import {
 	Progress
 } from "./styles"
 
-const UserInfo = ({name, image, percentual}) => {
+const UserInfo = ({name, image, percentual}: IUserInfo) => {
 	return (
 		<Container>
 			<UserPicture src={image} />

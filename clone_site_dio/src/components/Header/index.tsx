@@ -1,7 +1,8 @@
+/* eslint-disable react/jsx-filename-extension */
 /* eslint-disable react/prop-types */
-import React from "react"
 import logo from "../../assets/logo.png"
 import { Button } from "../Button"
+import { IHeader } from "./types"
 import {
 	BuscarImputContainer,
 	Container,
@@ -13,7 +14,8 @@ import {
 	Wrapper
 } from "./style"
 
-const Header = ({autenticado}) => {
+
+const Header = ({autenticado}: IHeader) => {
 	return (
 		<Wrapper>
 			<Container>

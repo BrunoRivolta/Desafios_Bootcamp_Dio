@@ -1,6 +1,5 @@
-import { Link } from "react-router-dom"
+/* eslint-disable react/jsx-filename-extension */
 import { Card } from "../../components/Card"
-import { Button } from "../../components/Button"
 import { Header } from "../../components/Header"
 import { UserInfo } from "../../components/UserInfo"
 import { Container, Column, Title, TitleHighlight } from "./styles"
