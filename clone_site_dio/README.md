@@ -21,11 +21,11 @@ Foi usado o Yup para fazer uma validação nos campos de usuário e senha do log
 
 Foram clonadas as paginas de inicio, login e feed  
 
-´´´
+```
 http://localhost:3000/  
 http://localhost:3000/login  
 http://localhost:3000/feed  
-´´´
+```
 
 ## API
 
