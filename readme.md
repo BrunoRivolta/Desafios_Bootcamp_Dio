@@ -21,8 +21,8 @@ Entre outros.
 
 ## Contato
 
-Bruno Rivolta
-E-mail - brrivolta@gmail.com
-Linkedin - https://www.linkedin.com/in/brunorivolta/
-GitHub - https://github.com/BrunoRivolta
+Bruno Rivolta  
+E-mail - brrivolta@gmail.com  
+Linkedin - https://www.linkedin.com/in/brunorivolta/  
+GitHub - https://github.com/BrunoRivolta  
 

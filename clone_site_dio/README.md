@@ -17,6 +17,16 @@ O objetivo foi recriar todos os elementos gráficos usados no site original e da
  
 Foi usado o Yup para fazer uma validação nos campos de usuário e senha do login, desta forma o e-mail precisa ter um formato valido e a senha precisa ter no mínimo 5 caracteres.
 
+## Navegação
+
+Foram clonadas as paginas de inicio, login e feed  
+
+´´´
+http://localhost:3000/  
+http://localhost:3000/login  
+http://localhost:3000/feed  
+´´´
+
 ## API
 
 Foi montado um servidor para simular uma API, usando as seguintes tecnologias:
@@ -46,8 +56,8 @@ npm run api
 
 #### Dados de Login:
 
-> Usuario: bruno@bruno.com
-> Senha: 123456
+> Usuario: bruno@bruno.com  
+> Senha: 123456  
 
 ## Agradecimentos
 
@@ -55,9 +65,11 @@ Agradeço a Dio pelo bootcamp, e ao professor Pablo Henrique pelas aulas de Reac
 
 ## Contato
 
-Bruno Rivolta
-E-mail - brrivolta@gmail.com
-Linkedin - https://www.linkedin.com/in/brunorivolta/
-GitHub - https://github.com/BrunoRivolta
+Bruno Rivolta  
+
+E-mail - brrivolta@gmail.com  
+Linkedin - https://www.linkedin.com/in/brunorivolta/  
+GitHub - https://github.com/BrunoRivolta  
+
 
 
