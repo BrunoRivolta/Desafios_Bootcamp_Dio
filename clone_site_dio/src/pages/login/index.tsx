@@ -37,8 +37,8 @@ const Login = () => {
 	}
 
 
-	const handleClickSignIn = () => {
-		navigate("/feed")
+	const handleClickRegistration = () => {
+		navigate("/registration")
 	}
 
 	return (<>
@@ -61,7 +61,7 @@ const Login = () => {
 					</form>
 					<Row>
 						<EsqueciText>Esqueci minha senha</EsqueciText>
-						<CriarText>Criar Conta</CriarText>
+						<CriarText onClick={handleClickRegistration} >Criar Conta</CriarText>
 					</Row>
 				</Wrapper>
 
