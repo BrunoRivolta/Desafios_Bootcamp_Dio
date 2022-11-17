@@ -1,7 +1,7 @@
 # GitHub Wiki
 
 Este projeto foi feito como treinamento de React, no Bootcamp Orange Tech da Dio.
-O objetivo foi replicar o visual do GitHub e consumir uma API traznedo detalhes dos repositorios buscados.
+O objetivo foi replicar o visual do GitHub e consumir uma API trazendo detalhes dos repositorios buscados.
 
 
 ![Imagem do Projeto em funcionamento](https://images2.imgbox.com/0d/d0/qEFzEvTS_o.gif)  

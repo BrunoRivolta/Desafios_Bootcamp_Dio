@@ -19,12 +19,13 @@ Foi usado o Yup para fazer uma validação nos campos de usuário e senha do log
 
 ## Navegação
 
-Foram clonadas as paginas de inicio, login e feed  
+Foram clonadas as paginas de inicio, login, feed e registration  
 
 ```
 http://localhost:3000/  
 http://localhost:3000/login  
 http://localhost:3000/feed  
+http://localhost:3000/registration 
 ```
 
 ## API
