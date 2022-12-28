@@ -47,7 +47,8 @@ Agradeço a Dio pelo bootcamp, e ao professor Pablo Henrique pelas aulas de Reac
 
 ## Contato
 
-Bruno Rivolta  
+Bruno Rivolta    
+
 <a  href="mailto:brrivolta@gmail.com"><img src="https://img.icons8.com/plasticine/100/null/apple-mail.png"></a>
 <a  href="https://github.com/BrunoRivolta"><img src="https://img.icons8.com/plasticine/100/null/github-squared.png"></a>
 <a  href="https://www.linkedin.com/in/brunorivolta/"><img src="https://img.icons8.com/plasticine/100/null/linkedin.png"></a>
